@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+ I am currently a full-time PhD student at Utrecht University's Department of Information and Computing Sciences. My project is based on Machine Learning and Computer Vision for human action and interaction recognition in everyday social settings, supervised by <a href="https://www.uu.nl/staff/RWPoppe" target="_blank"><font color="#4973AB"> Dr. Ronald Poppe</font></a> and <a href="https://www.uu.nl/staff/default.aspx?lng=NL&Profielpagina=RCVeltkamp&t=0" target="_blank"><font color="#4973AB"> Prof. Remco Veltkamp</font></a>. Among others, I am working towards improvements on the efficiency and explainabilty of spatio-temporal deep learning methods for scene understanding and classification of videos.
 
 <a href="https://alexandrosstergiou.github.io"  target="_blank">
   <img align="left" alt="Alex Stergiou | webpage" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icon.png" />
