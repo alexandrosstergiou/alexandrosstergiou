@@ -5,7 +5,7 @@ I am a Postdoc Researcher at Vrije Universiteit Brussel (VUB) working with <a hr
 <a href="https://alexandrosstergiou.github.io"  target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Alex Stergiou | webpage" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/icon_grey.svg" />
 </a>
-<a href="https://research-information.bris.ac.uk/en/persons/alexandros-g-stergiou"  target="_blank" rel="noopener noreferrer">
+<a href="https://researchportal.vub.be/en/persons/alexandros-stergiou"  target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Alex Stergiou | UU profile" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/university.svg" />
 </a>
 <a href="https://scholar.google.co.uk/citations?user=_E_Zs3kAAAAJ&hl=en&oi=sra" target="_blank" rel="noopener noreferrer">
