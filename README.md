@@ -1,21 +1,45 @@
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/33700292/101157406-eec79080-35de-11eb-9543-5c57727a309b.gif" alt="Wave Emoji"  width="24px" height="24px" />
 
-I am an Assistant Assistant professor at University of Twente's <a href="https://www.utwente.nl/en/eemcs/dmb/" target="_blank"><font color="#1E4258"> Data Management & Biometrics (DMB)</font></a> group. Previously, I was a Postdoc at VUB and a Research Associate at the University of Bristol working with <a href="https://dimadamen.github.io/" target="_blank"><font color="#1E4258"> Dima Damen</font></a> on video understanding. I obtained my PhD from Utrecht University where I was lucky to be supervised by <a href="https://rpoppe.wordpress.com/" target="_blank"><font color="#1E4258"> Ronald Poppe</font></a> and <a href="https://www.uu.nl/medewerkers/RCVeltkamp" target="_blank"><font color="#1E4258"> Remco C. Veltkamp</font></a>. My thesis was on human action and interaction recognition in everyday social settings. During my time in Utrecht, I also worked on improving the efficiency and explainability of spatio-temporal deep learning models, for scene understanding and classification of videos. I have completed my Master's and Bachelor's degrees in (Advanced) Computer Science at the University of Essex.
-
+I am an Assistant Professor at University of Twente's <a href="https://www.utwente.nl/en/eemcs/dmb/" target="_blank"><font color="#3c84b0"> Data Management &amp; Biometrics (DMB)</font></a> group. Previously, I was a Postdoc at VUB and a Research Associate at the University of Bristol working with <a href="https://dimadamen.github.io/" target="_blank"><font color="#3c84b0"> Dima Damen</font></a> on video understanding. I obtained my PhD from Utrecht University where I was lucky to be supervised by <a href="https://rpoppe.wordpress.com/" target="_blank"><font color="#3c84b0"> Ronald Poppe</font></a> and <a href="https://webspace.science.uu.nl/~veltk101/" target="_blank"><font color="#3c84b0"> Remco C. Veltkamp</font></a>. My thesis was on human action and interaction recognition in everyday social settings. During my time in Utrecht, I additionally worked on improving the efficiency and interpretability of spatiotemporal deep learning video classification models.
 
 <a href="https://alexandrosstergiou.github.io"  target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Alex Stergiou | webpage" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/icon_grey.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexandrosstergiou/alexandrosstergiou/blob/master/svgs/ags-invert.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexandrosstergiou/alexandrosstergiou/blob/master/svgs/ags.png">
+  <img align="left" alt="Alex Stergiou | webpage" height="28px">
+</picture>
 </a>
+
+<a href="https://scholar.google.com/citations?user=_E_Zs3kAAAAJ&hl=en"  target="_blank" rel="noopener noreferrer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandrosstergiou/alexandrosstergiou/master/svgs/google-scholar-inverted.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandrosstergiou/alexandrosstergiou/master/svgs/google-scholar.svg">
+  <img align="left" alt="Alex Stergiou | google scholar" height="28px">
+</picture>
 </a>
-<a href="https://scholar.google.co.uk/citations?user=_E_Zs3kAAAAJ&hl=en&oi=sra" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Alex Stergiou | Google scholar" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/googlescholar.svg" />
+
+<a href="https://people.utwente.nl/a.g.stergiou"  target="_blank" rel="noopener noreferrer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexandrosstergiou/alexandrosstergiou/blob/master/svgs/ut.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexandrosstergiou/alexandrosstergiou/blob/master/svgs/UT_b.png">
+  <img align="left" alt="Alex Stergiou | UT webpage" height="27px">
+</picture>
 </a>
-<a href="https://www.researchgate.net/profile/Alexandros_Stergiou" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Alex Stergiou | Reseach Gate" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/researchgate.svg" />
+
+<a href="https://twitter.com/_alexstergiou"  target="_blank" rel="noopener noreferrer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandrosstergiou/alexandrosstergiou/master/svgs/x-twitter-inverted.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandrosstergiou/alexandrosstergiou/master/svgs/x-twitter.svg">
+  <img align="left" alt="Alex Stergiou | Twitter X" height="30px">
+</picture>
 </a>
-<a href="https://orcid.org/0000-0003-4706-4231" target="_blank" rel="noopener noreferrer" >
-  <img align="left" alt="Alex Stergiou | Orcid" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/orcid.svg" />
+
+<a href="https://www.linkedin.com/in/alexandros-stergiou-b06a17128/"  target="_blank" rel="noopener noreferrer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandrosstergiou/alexandrosstergiou/master/svgs/linkedin-in-inverted.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandrosstergiou/alexandrosstergiou/master/svgs/linkedin-in.svg">
+  <img align="left" alt="Alex Stergiou | Linkedin" height="30px">
+</picture>
 </a>
-<a href="https://www.linkedin.com/in/alexandros-stergiou-b06a17128/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Alex Stergiou | LinkdeIN" width="30px" src="https://github.com/alexandrosstergiou/alexandrosstergiou.github.io/blob/master/icons/linkedin.svg" />
-</a>
+
+
