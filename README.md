@@ -4,8 +4,8 @@ I am an Assistant Professor at University of Twente's <a href="https://www.utwen
 
 <a href="https://alexandrosstergiou.github.io"  target="_blank" rel="noopener noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexandrosstergiou/alexandrosstergiou/blob/master/svgs/ags-invert.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexandrosstergiou/alexandrosstergiou/blob/master/svgs/ags.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexandrosstergiou/alexandrosstergiou/blob/master/svgs/icon-invert.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexandrosstergiou/alexandrosstergiou/blob/master/svgs/icon.svg">
   <img align="left" alt="Alex Stergiou | webpage" height="28px">
 </picture>
 </a>
