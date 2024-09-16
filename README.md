@@ -30,7 +30,7 @@ I am an Assistant Professor at University of Twente's <a href="https://www.utwen
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandrosstergiou/alexandrosstergiou/master/svgs/x-twitter-inverted.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandrosstergiou/alexandrosstergiou/master/svgs/x-twitter.svg">
-  <img align="left" alt="Alex Stergiou | Twitter X" height="30px">
+  <img align="left" alt="Alex Stergiou | Twitter X" height="28px">
 </picture>
 </a>
 
@@ -38,7 +38,7 @@ I am an Assistant Professor at University of Twente's <a href="https://www.utwen
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandrosstergiou/alexandrosstergiou/master/svgs/linkedin-in-inverted.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandrosstergiou/alexandrosstergiou/master/svgs/linkedin-in.svg">
-  <img align="left" alt="Alex Stergiou | Linkedin" height="30px">
+  <img align="left" alt="Alex Stergiou | Linkedin" height="28px">
 </picture>
 </a>
 
