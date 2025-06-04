@@ -42,7 +42,7 @@ I am an Assistant Professor at University of Twente's <a href="https://www.utwen
 </picture>
 </a>
 
-<a href="https://www.linkedin.com/in/alexandros-stergiou-b06a17128/"  target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/alex-stergiou-b06a17128/"  target="_blank" rel="noopener noreferrer">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandrosstergiou/alexandrosstergiou/master/svgs/linkedin-in-inverted.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandrosstergiou/alexandrosstergiou/master/svgs/linkedin-in.svg">
